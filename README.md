@@ -53,9 +53,11 @@ The assembly of PCB and case has not been tested.
 <br>
 
 ## Questions / Discussion
-See <a target="_blank" rel="noopener noreferrer" href="https://www.organiser2.com/"> Organiser 2 Hardware </a> forum, though see note below first.
+See <a target="_blank" rel="noopener noreferrer" href="https://www.organiser2.com/"> Organiser 2 Hardware </a> forum, though see note below first.  
+
+<br>
 
 ## Please note:  
-All information is For Indication Only.
-No association, affiliation, recommendation, suitability, fitness for purpose should be assumed or is implied.
-Registered trademarks are owned by their respective registrants.
+All information is For Indication Only.  
+No association, affiliation, recommendation, suitability, fitness for purpose should be assumed or is implied.  
+Registered trademarks are owned by their respective registrants.  
