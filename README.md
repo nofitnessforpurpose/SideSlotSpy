@@ -1,7 +1,12 @@
 # Side Slot Spy - Pre-Release
 PSION Organiser I & II - Side Slot Monitoring
 
-This repository holds files needed to create a Side Slot Montoring point for the Organiser 1 & 2 devices
+This repository holds files needed to create a Side Slot monitoring point for the Organiser 1 & 2 devices for device development. The related Top Slot Spy is located <a href="https://github.com/nofitnessforpurpose/TopSlotSpy">here</a>.  
+
+As detailed in the <a href="https://www.jaapsch.net/psion/tech04.htm">Technical Reference Manual</a>, hardware interfaces can be included in the side slots, with the Top Slot of Organiser II devices preferred for ergonomic reasons. On the Organiser I device the Top Slot is not available, hence the '<a href="https://www.jaapsch.net/psion/p1manlink2.htm">Link-Up</a>' packs utilised the side slots to implement hardware interfaces.  
+
+In addition to supporting develoment of side slot hardware interfaces the Side Slot Spy will suport of <a href="https://www.jaapsch.net/psion/tech09.htm">Data Pack</a> memory modules.  
+
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     
@@ -26,7 +31,17 @@ This repository holds files needed to create a Side Slot Montoring point for the
 <br>  
 <a target="_blank" rel="noopener noreferrer" href="https://www.freecad.org/" > FreeCAD </a> may prove suitable for viewing, handling and, if desired modifying STEP files.
 <br>
-<a target="_blank" rel="noopener noreferrer" href="https://www.kicad.org/" >KiCad </a> may prove suitable for viewing GERBER files.
+<a target="_blank" rel="noopener noreferrer" href="https://www.kicad.org/" >KiCad </a> may prove suitable for viewing GERBER files.  
+<br>
+<br>
+
+The internal connector of the Side Slot is brought out to two external connections. The PCB is marked with Slot Pin out details and the case does not have friction grips so as to assist reading of the details through transparent cases. One of the connections can be used to probe signals on the Side <a href="https://www.jaapsch.net/psion/tech04.htm#p4.2">Slot Control Bus<a> whilst the other connection connected to the target hardware. Making more practicable development on <a href="https://en.wikipedia.org/wiki/Breadboard">Solderless Bread Boards<a/>.  
+
+The PCB is 4 layer to provide a screening for signals and ensure a low impedance power distribution to an externally connected target system.  
+
+Note:  
+As the internal signals of the host Organiser are exposed via the Side Slot Spy connection pins, care must be exercised to protect from unsuitable signal connection(s) or static electricity. Any incorrect connection or voltage will lead to irreversible degradation!
+
 <br>
 
 ## Considerations
