@@ -37,7 +37,9 @@ In addition to supporting develoment of side slot hardware interfaces the Side S
 
 ### On-Line Preview   
 Models might be viewed on line using the following links. Noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is strongly recommended to use the source STEP file where ever possible, as any export process will introduce artifacts.  
- - Assembly - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/SideSlotSpy/blob/main/CAD/ass-sss-01.stp">here</a>.  
+ - Assembly - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/SideSlotSpy/blob/main/CAD/ass-sss-01.stp">here</a>.
+ - Outer - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/SideSlotSpy/blob/main/CAD/Outer%2003%20-%20No%20Grips%20-%20Slot.stp">here</a>.
+ - Cover - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/SideSlotSpy/blob/main/CAD/Top-Cover%2003%20-%20No%20Hole.stp">here</a>.  
 <BR>
 <BR>
 
