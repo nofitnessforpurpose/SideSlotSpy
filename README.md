@@ -1,4 +1,4 @@
-# Side Slot Spy - Pre-Release
+# Side Slot Spy
 PSION Organiser I & II - Side Slot Monitoring
 
 This repository holds files needed to create a Side Slot monitoring point for the Organiser 1 & 2 devices for device development. The related Top Slot Spy is located <a href="https://github.com/nofitnessforpurpose/TopSlotSpy">here</a>.  
