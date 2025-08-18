@@ -10,7 +10,7 @@ In addition to supporting develoment of side slot hardware interfaces the Side S
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     
-  <img src="https://github.com/nofitnessforpurpose/SideSlotSpy/blob/main/images/SSS-ASS-01.png?raw=true" width="400px" alt="PSION Organiser II Side Slot Case. Image copyright (c) 02 February 2025 nofitnessforpurpose All Rights Reserved">
+  <img src="https://github.com/nofitnessforpurpose/SideSlotSpy/blob/main/images/Assembly 01.jpg?raw=true" width="400px" alt="PSION Organiser II Side Slot Case. Image copyright (c) 18 August 2025 nofitnessforpurpose All Rights Reserved">
   </div>
 </div>
 <BR>
