@@ -5,7 +5,7 @@ This repository holds files needed to create a Side Slot monitoring point for th
 
 As detailed in the <a href="https://www.jaapsch.net/psion/tech04.htm">Technical Reference Manual</a>, hardware interfaces can be included in the side slots, with the Top Slot of Organiser II devices preferred for ergonomic reasons. On the Organiser I device the Top Slot is not available, hence the '<a href="https://www.jaapsch.net/psion/p1manlink2.htm">Link-Up</a>' packs utilised the side slots to implement hardware interfaces.  
 
-In addition to supporting development of side slot hardware interfaces the Side Slot Spy will suport of <a href="https://www.jaapsch.net/psion/tech09.htm">Data Pack</a> memory modules.  
+In addition to supporting development of side slot hardware interfaces the Side Slot Spy will suport use and development of <a href="https://www.jaapsch.net/psion/tech09.htm">Data Pack</a> memory modules.  
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
