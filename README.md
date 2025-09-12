@@ -1,7 +1,7 @@
 # Side Slot Spy
 PSION Organiser I & II - Side Slot Monitoring
 
-This repository holds files needed to create a Side Slot monitoring point for the Organiser 1 & 2 devices for device development. The related Top Slot Spy is located <a href="https://github.com/nofitnessforpurpose/TopSlotSpy">here</a>.  
+This repository holds files needed to create a Side Slot monitoring point for the Organiser 1 & 2 devices for device development. The related Organiser II Top Slot Spy is located <a href="https://github.com/nofitnessforpurpose/TopSlotSpy">here</a>.  
 
 As detailed in the <a href="https://www.jaapsch.net/psion/tech04.htm">Technical Reference Manual</a>, hardware interfaces can be included in the side slots, with the Top Slot of Organiser II devices preferred for ergonomic reasons. On the Organiser I device the Top Slot is not available, hence the '<a href="https://www.jaapsch.net/psion/p1manlink2.htm">Link-Up</a>' packs utilised the side slots to implement hardware interfaces.  
 
