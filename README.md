@@ -61,10 +61,10 @@ As the internal signals of the host Organiser are exposed via the Side Slot Spy 
 <br>
 
 ## Considerations
-The 3D model makes no accomodation for manufacturing tolerances, process or material - see Notes below.  
-The PCB is currently beta and has not been tested, it remains your responsiblity to asses suitability!  
+The 3D models make no accomodation for manufacturing tolerances, process or material - see Notes below.  
+The PCB has been tested, it remains your responsiblity to asses suitability!  
+The assembly of PCB and case has been tested, it remains your responsiblity to asses suitability!  
 See all notes  
-The assembly of PCB and case has not been tested.  
 
 <br>
 
