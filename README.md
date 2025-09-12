@@ -43,7 +43,9 @@ Models might be viewed on line using the following links. Noting display of any 
 <BR>
 <BR>
 
-The internal connector of the Side Slot is brought out to two external connections. The PCB is marked with Slot Pin out details and the case does not have friction grips so as to assist reading of the details through transparent cases. One of the connections can be used to probe signals on the Side <a href="https://www.jaapsch.net/psion/tech04.htm#p4.2">Slot Control Bus<a> whilst the other connection connected to the target hardware. Making more practicable development on <a href="https://en.wikipedia.org/wiki/Breadboard">Solderless Bread Boards<a/>.  
+The internal connector of the Side Slot is brought out to two external connections. The PCB is marked with Slot Pin out details and the case does not have friction grips so as to assist reading of the details through transparent cases. One of the connections can be used to probe signals on the Side <a href="https://www.jaapsch.net/psion/tech04.htm#p4.2">Slot Control Bus<a> whilst the other connection connected to the target hardware. Making more practicable development on <a href="https://en.wikipedia.org/wiki/Breadboard">Solderless Bread Boards<a/>.   
+
+As there are two identical external connections provided by the Side Slot Spy makes it practicable to use a traditional data pack whilst developing hardware in the same Side Slot port. As the control logic needed for hardware will, when correctly implemented, select the appropriate hardware.  
 
 The PCB is 4 layer to provide a screening for signals and ensure a low impedance power distribution to an externally connected target system.  
 
