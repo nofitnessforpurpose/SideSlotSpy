@@ -10,7 +10,7 @@ In addition to supporting development of side slot hardware interfaces the Side 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     
-  <img src="https://github.com/nofitnessforpurpose/SideSlotSpy/blob/main/images/Assembly 01.jpg?raw=true" width="400px" alt="PSION Organiser II Side Slot Case. Image copyright (c) 18 August 2025 nofitnessforpurpose All Rights Reserved">
+  <img src="https://github.com/nofitnessforpurpose/SideSlotSpy/blob/main/images/Assembly 01.jpg" width="400px" alt="PSION Organiser II Side Slot Case. Image copyright (c) 18 August 2025 nofitnessforpurpose All Rights Reserved">
   </div>
 </div>
 <BR>
@@ -55,7 +55,7 @@ As the internal signals of the host Organiser are exposed via the Side Slot Spy 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     
-  <img src="https://github.com/nofitnessforpurpose/SideSlotSpy/blob/main/images/SSS-Rear-View.jpg?raw=true" width="400px" alt="PSION Organiser II Side Slot Case. Image copyright (c) 18 August 2025 nofitnessforpurpose All Rights Reserved">
+  <img src="https://github.com/nofitnessforpurpose/SideSlotSpy/blob/main/images/SSS-Rear-View.jpg" width="400px" alt="PSION Organiser II Side Slot Case. Image copyright (c) 18 August 2025 nofitnessforpurpose All Rights Reserved">
   </div>
 </div>
 <BR>
